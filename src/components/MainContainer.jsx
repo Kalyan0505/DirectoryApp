@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import AddPerson from "./AddPerson";
-import SearchInfo from "./searchInfo";
+import SearchInfo from "./SearchInfo";
 
 const MainContainer = ({ heading, flag }) => {
   return (
